@@ -1,6 +1,6 @@
 # Hermes Skills 全流程开发知识库
 
-> 🚀 **萝卜飞的AI编程Skills库** — 从需求到测试，覆盖信息系统开发全生命周期
+> 🚀 **AI编程Skills库** — 从需求到测试，覆盖信息系统开发全生命周期
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![中文文档](https://img.shields.io/badge/documentation-中文-brightgreen.svg)](#)
